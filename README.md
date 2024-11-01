@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seanblatter
-- 👀 I’m interested in sql,python, plants, and hacking
+- 👀 I’m interested in java, sql,python, plants, and hacking
 - 🌱 I’m currently learning and preparing for a MS in Comp Sci.
 - 💞️ I’m looking to collaborate on anything that will help me pursue my ambitions and enrich others goals.
 - 📫 How to reach me (blattersean@outlook.com)
